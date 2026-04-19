@@ -1,0 +1,22 @@
+<html>
+    <header>
+        <title>
+            Spinner
+        </title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    </header>
+    <body>
+        <h1 style="color:blueviolet; text-align: center; font-style:italic;">
+            SPINNER IN BOOTSTRAP
+        </h1>
+        <div class="container">
+            <p style="text-align:center">
+                To create a spinner, use the <code>. spinner-border </code>class:
+            </p>
+            <div class="spinner-border"></div><br><br>
+            <div class="spinner-border text-success"></div><br><br>
+            <div class="spinner-grow text-danger"></div><br><br>
+            <div class="spinner-grow spinner-grow-sm"></div><br>
+        </div>
+    </body>
+</html>
