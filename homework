@@ -1,0 +1,76 @@
+<html>
+    <header>
+        <title>
+            HOMEWORK
+        </title>
+       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    </header>
+    <body>
+        <div class="container" id="c1">
+            <div class="card" style="width:250px;">
+                <img class="card-img-top"
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7xpNxbQjeckhZxmgyxXiE8zn3x3E_hT2Jzw&s"
+                alt="card-image-cap">
+                <div class="card-body">
+                    <h5 class="card-title" style="text-align: center;">
+                        Noor
+                    </h5>
+                    <p class="card-text" style="text-align:center;">
+                        Medical Professional
+                    </p>
+                    <a href="#" class="btn btn-secondary" style="text-align: center;">
+                        see profile
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="container" id="c2">
+            <div class="card" style="width:250px;">
+                <img class="card-img-top"
+                src=
+                "https://img.freepik.com/premium-vector/vector-illustration-programmer-flat-design-style_844724-3931.jpg?semt=ais_incoming&w=740&q=80"
+                alt="card-img-cap">
+                <div class="card-body">
+                    <h5 class="card-title" style="text-align:center">
+                         Amina
+                    </h5>
+                    <p class="card-text" style="text-align:center;">
+                        Software Developer
+                    </p>
+                    <a href="#" class="btn btn-secondary" style="text-align: center;">
+                        see profile
+                    </a>
+                </div>
+            </div>
+        </div><br><br>
+         <div class="container" id="c3">
+            <ul class="pagination">
+                <li class="page-item">
+                    <a class="page-link" href="#">Previous</a>
+                </li>
+                  <li class="page-item">
+                    <a class="page-link" href="#">1</a>
+                </li>
+                <li class="page-item">
+                    <a class="page-link" href="#">2</a>
+                </li>
+                <li class="page-item">
+                    <a class="page-link" href="#">3</a>
+                </li> 
+                <li class="page-item">
+                    <a class="page-link" href="#">4</a>
+                </li>
+                <li class="page-item">
+                    <a class="page-link" href="#">Next</a>
+                </li>
+            </ul>
+        </div>
+        <div class="container" id="c4">
+            <p style="text-align:center">
+                To create a spinner, use the <code>. spinner-border </code>class:
+            </p>
+            <div class="spinner-grow text-danger"></div><br><br>
+            <div class="spinner-grow spinner-grow-sm text-warning"></div><br>
+        </div>
+    </body>
+</html>
