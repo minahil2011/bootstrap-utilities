@@ -1,0 +1,57 @@
+<html>
+    <header>
+        <title>
+            Jumbotron and Button
+        </title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    </header>
+    <body style="text-align:center;">
+        <div class="jumbotron jumbotron-fluid">
+            <div class="container">
+                <h1 style="color:aquamarine">
+                    CODINGAL
+                </h1>
+                <p>
+                    Codingal will help you fall in love with coding.
+                </p>
+            </div>
+        </div>
+        <div class="container">
+            <h1 style="color:rgb(20, 20, 20)">
+                BUTTONS
+            </h1>
+            <button type="button" class="btn btn-primary">Primary</button>
+            <button type="button" class="btn btn-warning">Warning</button>
+            <button type="button" class="btn btn-danger">Danger</button>
+            <button type="button" class="btn btn-success">Success</button>
+            <button type="button" class="btn btn-info">Info</button>
+            <button type="button" class="btn btn-secondary">Secondary</button>
+            <button type="button" class="btn btn-dark">Dark</button>
+            <button type="button" class="btn btn-white">White</button>
+        </div>
+        <div class="container">
+            <h1>
+                BADGES
+            </h1>
+            <span class="badge badge-primary">Primary</span>
+            <span class="badge badge-warning">Warning</span>
+            <span class="badge badge-danger">Danger</span>
+            <span class="badge badge-success">Success</span>
+            <span class="badge badge-info">Info</span>
+            <span class="badge badge-secondary">Secondary</span>
+            <span class="badge badge-dark">Dark</span>
+            <span class="badge badge-white">White</span>
+        </div>
+        <div class="container">
+            <button type="button" class="btn btn-secondary">Notification
+                <span class="badge badge-info">1</span>
+            </button>
+        </div>
+        <div class="container">
+            <div class="progress">
+                <div class="progress-bar" style="width:50%">50%</div>
+            </div>
+        </div>
+    </body>
+</html>
