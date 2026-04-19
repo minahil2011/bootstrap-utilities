@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <title>
+            Cards
+        </title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    </head>
+    <body>
+        <h1 style="color:aquamarine;text-align: center;">
+            CARDS IN BOOTSTRAP
+        </h1>
+        <div class="container">
+            <div class="card" style="width: 250px;">
+                <img class="card-img-top"
+                 src="https://img.freepik.com/premium-vector/vector-cute-girl-cartoon-illustration-logo-design_1241361-117.jpg"
+                 alt="card image cap" 
+                >
+                <div class="card-body">
+                    <h5 class="card-title" style="text-align: center;">
+                        Jia
+                    </h5>
+                    <p class="card-text" style="text-align: center;">
+                        Fashion Designer
+                    </p>
+                    <a href="#" class="btn btn-secondary" style="text-align: center;">
+                        see profile
+                    </a>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
